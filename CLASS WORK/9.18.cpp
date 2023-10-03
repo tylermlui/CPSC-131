@@ -92,6 +92,7 @@ int main(){
     l1.PopFront();
     l1.display();
     l1.PopFront();
+    l1.display();
     try{
         l1.PopFront();
     }
